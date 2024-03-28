@@ -1,7 +1,9 @@
 
 
 ## Hey! 👋
-I'm Islombek, a 20 years old web developer from Uzbekistan :relaxed:.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Assalomu+alaykum!;My+name+is+Islombek+;Back-end+web+developer)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=yellow&random=false&width=435&lines=MY+SKILLS+%3A+Python++Django++DRF+(API)++;SQL++Git++Github+Telegram+Bot)](https://git.io/typing-svg)
 - <hr/>
 
 <div align="center">
@@ -25,7 +27,7 @@ I'm Islombek, a 20 years old web developer from Uzbekistan :relaxed:.
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Islombek!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Islombek+Botiraliyev!;" />
 </h1>
 <h3 align="center">A passionate Backend developer from Uzbekistan</h3>
 <img align="right" alt = "Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnM1a3RqZTJ3bHhkYTk2eHV6dHhjNzJvMHQxYW4wam5wbTk4aHIwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QHE5gWI0QjqF2/giphy.gif"
@@ -37,6 +39,7 @@ I'm Islombek, a 20 years old web developer from Uzbekistan :relaxed:.
 - 👨‍💻 All of my projects are available at [https://github.com/islombek-developer/islombek](https://github.com/islombek-developer/islombek)
 
 - 📫 How to reach me **islombekbotiraliyev1@gmail.com**
+- 📫 telegram me **bek_dev** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -39,7 +39,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/islombek-developer/islombek](https://github.com/islombek-developer/islombek)
 
 - 📫 How to reach me **islombekbotiraliyev1@gmail.com**
-- 📫 telegram me **bek_dev** 
+- 📫 telegram me **in_coderr** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on web projects
 - 🌱 I’m currently learning Data Science
 - 👯 I’m collaborating on private projects
-- 💬 Ask me about python, php, sql tricks
+- 💬 Ask me about python, django, sql tricks
 - 📫 How to reach me: [Email](mailto:islombekbotiraliyev1@gmail.com)
 <!---
 ---

@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Data Science
 - 👯 I’m collaborating on private projects
 - 💬 Ask me about python, php, sql tricks
-- 📫 How to reach me: [Email](mailto:ziyodullodev@gmail.com) or [LinkedIn](https://www.linkedin.com/in/ziyodullo)
+- 📫 How to reach me: [Email](mailto:islombekbotiraliyev1@gmail.com)
 <!---
 ---
 

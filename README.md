@@ -20,8 +20,8 @@
 
 
 [website]: https://incoder.uz/
-[instagram]: https://www.instagram.com/in.coder.dev/
-[Telegram]: https://t.me/in_coderr
+[instagram]: https://www.instagram.com/in.coder/
+[Telegram]: https://t.me/ilombekpy
 
 ---
 
